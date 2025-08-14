@@ -1,4 +1,7 @@
 //
-//  Use this file to import your target's public headers that you would like to expose to Swift.
+//  Lockup3-Bridging-Header.h
+//  Lockup3
+//
+//  Created by Felix Clissold on 14/08/2025.
 //
 
